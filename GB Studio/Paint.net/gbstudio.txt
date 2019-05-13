@@ -1,0 +1,12 @@
+;black
+071821FF
+;Dark Green
+306850FF
+;Green
+86c06cFF
+;Light Green
+e0f8cfFF
+
+;screen size is 160 x 144
+;max background size is 256 x 256
+;repeat half of all 8x8 tiles on minsize and no more than 192 on maxsize
