@@ -1,12 +1,38 @@
-;black
-071821FF
+;Use this first pallette for backgrounds only!
+;Black
+ff071821
 ;Dark Green
-306850FF
+ff306850
 ;Green
-86c06cFF
+ff86c06c
 ;Light Green
-e0f8cfFF
+ffe0f8cf
+;Minimum background size is 160 x 144
+;Maximum background size is 256 x 256
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
 
-;screen size is 160 x 144
-;max background size is 256 x 256
-;repeat half of all 8x8 tiles on minsize and no more than 192 on maxsize
+;Use this second pallette for sprites/actors only!
+;Black
+ff071821
+;Dark Green
+ff86c06c
+;Light Green
+ffe0f8cf
+;Transparent
+ff65ff00
+
+;static sprites are 16 x 16
+;animated sprites are frames*16 x 16
+;non-animated actors are 48 x 16
+;animated actors are 96 x 16
