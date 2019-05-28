@@ -1,6 +1,12 @@
-# Palettes-for-Artists-in-Gamedev
-To help with creating assets for palette-restricted game development programs.
+# Palettes for Gamemaking Artists
+To help artists create assets for palette-restricted gamemaking programs.
 
-This repo is structured by gamedev program/art program.
+Right now things are structured as `gamedev program/art program/palette file.extension`
 
-example: Pico-8/Paint.net/pico8.txt
+**Example:**
+``GB Studio/Paint.net/gbstudio.txt``
+
+Uploading a zipped folder with this file structure will put your file in the right set of folders.
+
+**Example:**
+Fork and upload ``GB Studio.zip`` as a new contribution.
