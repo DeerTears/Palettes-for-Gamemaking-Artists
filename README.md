@@ -14,3 +14,7 @@ You can help contribute to this repository by adding your palette files like so:
 **Step 4.** Make a pull-request.
 
 Don't worry about explaining what the pull-request it is since this isn't a big repo anyways.
+
+## Note
+
+The provided Asesprite palettes should also work with GIMP.
