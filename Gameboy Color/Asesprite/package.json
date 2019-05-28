@@ -1,0 +1,26 @@
+{
+  "name": "WildLeoKnight-palettes",
+  "displayName": "WildLeoKnight Palettes",
+  "description": "Palettes created by WildLeoKnight",
+  "version": "2.0",
+  "author": { "name": "WildLeoKnight", "url": "https://twitter.com/WildLeoKnight" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "Nostalgia", "path": "./nostalgia.gpl" },
+	  { "id": "HarshGreens", "path": "./harshgreens.gpl" },
+      { "id": "Platinum", "path": "./platinum.gpl" },
+	  { "id": "DirtyBoy", "path": "./dirtyboy.gpl" },
+      { "id": "Crimson", "path": "./crimson.gpl" },
+      { "id": "SpaceHaze", "path": "./spacehaze.gpl" },
+	  { "id": "Blue Seni", "path": "./blueseni.gpl" },
+	  { "id": "LightGreen", "path": "./lightgreen.gpl" },
+	  { "id": "PurpleDawn", "path": "./purpledawn.gpl" },
+	  { "id": "HallowPumpkin", "path": "./hallowpumpkin.gpl" },
+	  { "id": "MuddySand", "path": "./muddysand.gpl" }
+    ]
+  }
+}
