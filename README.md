@@ -7,10 +7,10 @@ You can help contribute to this repository by adding your palette files like so:
 
 **Step 1.** Create folders so your palette file looks like this: ``GB Studio/Paint.net/gb_studio.txt``
 
-**Step 2.** Zip the folder to look like this: ``GB Studio.zip`` 
+**Step 2.** Fork this repository and click "upload file"
 
-**Step 3.** Fork this repository, then upload your zip file to your fork.
+**Step 3** On the website, drag the root folder (in this case ``GB Studio``) to the upload file area.
 
-**Step 4.** Make a pull-request.
+**Step 4.** Make a pull-request
 
-Don't worry about explaining what the pull-request it is since this isn't a big repo anyways.
+Don't worry about explaining what the pull-request is since this isn't a big repo anyways.
