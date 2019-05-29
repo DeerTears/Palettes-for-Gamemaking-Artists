@@ -15,6 +15,17 @@ You can help contribute to this repository by adding your palette files like so:
 
 Don't worry about explaining what the pull-request it is since this isn't a big repo anyways.
 
-## Note
+### Note
 
 The provided Asesprite palettes should also work with GIMP.
+
+### Credits
+
+@chrismaltby - Photoshop and Asesprite palettes for GB Studio
+https://www.gbstudio.dev/docs/sprites/
+https://www.gbstudio.dev/docs/backgrounds/
+
+wildleoknight - Asesprite and GIMP palettes for Gameboy Color, Super Gameboy and Gameboy Color Bootstrap
+https://wildleoknight.itch.io
+
+@deertears - Paint.net palettes for GB Studio
