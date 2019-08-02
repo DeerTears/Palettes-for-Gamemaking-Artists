@@ -21,11 +21,17 @@ The provided Asesprite palettes should also work with GIMP.
 
 ### Credits
 
-@chrismaltby - Photoshop and Asesprite palettes for GB Studio
-https://www.gbstudio.dev/docs/sprites/
-https://www.gbstudio.dev/docs/backgrounds/
+**GB Studio:**
 
-wildleoknight - Asesprite and GIMP palettes for Gameboy Color, Super Gameboy and Gameboy Color Bootstrap
-https://wildleoknight.itch.io
+- @chrismaltby: Photoshop and Asesprite palettes for GB Studio
+- https://www.gbstudio.dev/docs/sprites/
+- https://www.gbstudio.dev/docs/backgrounds/
 
-@deertears - Paint.net palettes for GB Studio
+- henry#0099 on Discord: Krita palettes for GB Studio
+
+- @deertears: Paint.net palettes for GB Studio
+
+**Gameboy Color/Super Gameboy/Bootstrap Palettes:**
+
+- wildleoknight: Asesprite and GIMP palettes for Gameboy Color, Super Gameboy and Gameboy Color Bootstrap
+- https://wildleoknight.itch.io
